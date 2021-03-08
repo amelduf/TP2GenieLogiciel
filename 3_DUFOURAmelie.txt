@@ -1,1 +1,4 @@
-DUFOUR Amélie
+DUFOUR Amélie 
+explication VII:
+on ne voit plus le fichier dans "master car on a utilisé la commande " git commit" lorsque nous étion dans la branche "mon_fichier" les modifications ont donc été enregistrer dans "mon_fichier" et non plus dans "master"
+le fichier a donc été déplacer dans "mon_fichier"
